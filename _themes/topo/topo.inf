@@ -1,0 +1,34 @@
+[info]
+codepage=65001
+readonly=true
+version=4.00
+format=2.00
+title=Topo
+refcount=2
+
+[titles]
+1040=Cartina topografica
+1053=Topografi
+1032=Τοπογραφικό
+1036=Topographie
+1031=Topografie
+1044=Topografi
+2052=拓扑
+1028=沙地
+1042=모래
+1038=Térkép
+1049=Топографическая
+1046=Topografia
+1041=地形
+2070=Topografia
+1054=ภูมิประเทศ
+1025=موقع
+3082=Topografías
+1035=Reittikartta
+1030=Topo
+1043=Topografie
+1029=Topografie
+1045=Topografia
+1037=טופו (Topo)
+1055=Topografya
+
