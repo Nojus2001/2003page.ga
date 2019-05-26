@@ -2,15 +2,41 @@
 <head>
 <!--mstheme--><link rel="stylesheet" href="bala1011.css">
 <meta name="Microsoft Theme" content="balance 1011">
+<script language="JavaScript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
 </head>
 
-<body>
+<body onload="FP_preloadImgs(/*url*/'button5.jpg', /*url*/'button6.jpg')">
 
 <h1>Gamerappa Land <img border="0" src="PepsiCan1.gif" width="34" height="56"></h1>
 <p>Gamerappa's brand new Gamerappa.ga, ok it's now now a sub-site but who cares 
 nobody visited Gamerappa.ga. Expect more crap later</p>
 
 <p><img border="0" src="../buttons/obscure_msie.gif" width="88" height="31"><img border="0" src="../buttons/31NO!.gif" width="88" height="31"></p>
+<p><a href="unofficial_cloudsoftware/index.html">
+<img border="0" id="img1" src="button4.jpg" height="20" width="162" alt="Cloud Software Evolution" fp-style="fp-btn: Border Left 1; fp-proportional: 0" fp-title="Cloud Software Evolution" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'button5.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'button4.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'button6.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'button5.jpg')"></a></p>
 
 <p>&nbsp;</p>
 
