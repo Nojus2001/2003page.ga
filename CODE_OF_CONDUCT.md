@@ -8,9 +8,9 @@ The Standards
 
 Examples of behaviour that contributes to creating a positive environment include:
 
-..*Using welcoming and inclusive language (Swear words are okay)
-Being respectful of differing viewpoints and experiences
-Gracefully accepting constructive criticism
++ Using welcoming and inclusive language (Swear words are okay)
++ Being respectful of differing viewpoints and experiences
++ Gracefully accepting constructive criticism
 
 Examples of unacceptable behaviour by participants include:
 
