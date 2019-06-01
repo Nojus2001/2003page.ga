@@ -8,19 +8,19 @@ The Standards
 
 Examples of behaviour that contributes to creating a positive environment include:
 
-    *Using welcoming and inclusive language (Swear words are okay)
-    *Being respectful of differing viewpoints and experiences
-    *Gracefully accepting constructive criticism
+*Using welcoming and inclusive language (Swear words are okay)
+*Being respectful of differing viewpoints and experiences
+*Gracefully accepting constructive criticism
 
 Examples of unacceptable behaviour by participants include:
 
-    *Trolling, insulting/derogatory comments, public or private harassment
-    *Publishing others' private information, such as a physical or electronic address, without explicit permission
-    *Not being respectful to reasonable communication boundaries, such as 'leave me alone,' 'go away,' or 'I’m not discussing this with you.'
-    *The usage of sexualised language or imagery and unwelcome sexual attention or advances
-    *Demonstrating the graphics or any other content you know may be considered disturbing
-    *Drug promotion of any kind
-    *Other conduct which you know could reasonably be considered inappropriate in a professional setting.
+*Trolling, insulting/derogatory comments, public or private harassment
+*Publishing others' private information, such as a physical or electronic address, without explicit permission
+*Not being respectful to reasonable communication boundaries, such as 'leave me alone,' 'go away,' or 'I’m not discussing this with you.'
+*The usage of sexualised language or imagery and unwelcome sexual attention or advances
+*Demonstrating the graphics or any other content you know may be considered disturbing
+*Drug promotion of any kind
+*Other conduct which you know could reasonably be considered inappropriate in a professional setting.
 
 # Enforcement
 
