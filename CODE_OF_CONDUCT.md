@@ -8,25 +8,26 @@ The Standards
 
 Examples of behaviour that contributes to creating a positive environment include:
 
-    Using welcoming and inclusive language
-    Being respectful of differing viewpoints and experiences
-    Gracefully accepting constructive criticism
+    *Using welcoming and inclusive language (Swear words are okay)
+    *Being respectful of differing viewpoints and experiences
+    *Gracefully accepting constructive criticism
 
 Examples of unacceptable behaviour by participants include:
 
-    Trolling, insulting/derogatory comments, public or private harassment
-    Publishing others' private information, such as a physical or electronic address, without explicit permission
-    Not being respectful to reasonable communication boundaries, such as 'leave me alone,' 'go away,' or 'I’m not discussing this with you.'
-    The usage of sexualised language or imagery and unwelcome sexual attention or advances
-    Demonstrating the graphics or any other content you know may be considered disturbing
-    Drug promotion of any kind
-    Other conduct which you know could reasonably be considered inappropriate in a professional setting.
+    *Trolling, insulting/derogatory comments, public or private harassment
+    *Publishing others' private information, such as a physical or electronic address, without explicit permission
+    *Not being respectful to reasonable communication boundaries, such as 'leave me alone,' 'go away,' or 'I’m not discussing this with you.'
+    *The usage of sexualised language or imagery and unwelcome sexual attention or advances
+    *Demonstrating the graphics or any other content you know may be considered disturbing
+    *Drug promotion of any kind
+    *Other conduct which you know could reasonably be considered inappropriate in a professional setting.
 
-Enforcement
+# Enforcement
 
 Violations of the Code of Conduct may be reported by sending an email to xpusergot@gmail.com. All reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Further details of specific enforcement policies may be posted separately.
 
 We hold the right and responsibility to remove comments or other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any members for other behaviours that they deem inappropriate, threatening, offensive, or harmful.
-Attribution
+
+#Attribution
 
 This Code of Conduct is adapted from dev.to.
