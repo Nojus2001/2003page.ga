@@ -21,6 +21,7 @@ Examples of unacceptable behaviour by participants include:
 + Demonstrating the graphics or any other content you know may be considered disturbing
 + Drug promotion of any kind
 + Other conduct which you know could reasonably be considered inappropriate in a professional setting.
++ Vandalising someone's sub-site.
 
 # Enforcement
 
