@@ -1,0 +1,14 @@
+xpuser - done
+index - done
+root error pages - done
+endermite - done
+*** IMPORTANT ***
+*** WordArt and buttons on Screwdriver's pages are broken in IE6. Resolve this if possible.
+eper98 - done
+*** WHAT THE FUCK IS ON JARHEAD SUBSITE ***
+*** IMA TOO LAZY TO FIX ALL OF THIS ***
+~~~
+** Compatibility with FrontPage may be broken on the main page. Fix this. **
+gamerappa - done
+kf9 - done
+** Import local godblessbutton1.gif for Memes. **
